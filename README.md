@@ -1,0 +1,1 @@
+This code demonstrates a common type error in TypeScript when working with arrays of numbers.  The `combine` function attempts to concatenate two arrays, but `arr2` contains a string element ("6"), leading to a type error.  The solution shows how to address this by correctly typing the arrays or using type guards.
